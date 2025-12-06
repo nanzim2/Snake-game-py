@@ -1,5 +1,5 @@
 # /*******************************************************************************
-# Autor: Fulano de Tal
+# Autor: Renan Pires Andrade
 # Componente Curricular: Algoritmos I
 # Concluido em: 18/10/2011
 # Declaro que este código foi elaborado por mim de forma individual e não contém nenhum
